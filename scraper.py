@@ -1,6 +1,6 @@
 import BeautifulSoup, scraperwiki, datetime
 
-scraperwiki.metadata.save('data_columns', ['id', 'date', 'street', 'city', 'postcode', 'livingspace', 'otherspace', 'price'])
+#scraperwiki.metadata.save('data_columns', ['id', 'date', 'street', 'city', 'postcode', 'livingspace', 'otherspace', 'price'])
 
 city = 'Assen'
 
